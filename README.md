@@ -21,7 +21,8 @@ Start the code and input a positive amount of cents. It will calculate from ther
 ```How many cents? Enter: 67
 Here are the coins I would give you for 67 cents:
 2 quarters, 1 dime, 1 nickel, and 2 pennies. 
-That's 6 coins in total.```
+That's 6 coins in total.
+```
 ## AI log (required — 2-3 honest sentences)
 - What I asked: Efficiency for assigning values with if-else logic
 - What I took: Logic: variable = (condition)? true : false
