@@ -8,3 +8,6 @@
 I am a Junior who is taking APCSA because I like fun and I find coding and CS fun.
 I hope to build a website someday.
 ```
+
+# Links to other branches
+[Least Coins Challenge](https://github.com/trueadeptus/apcsa-portfolio/tree/Least-Coins-Challenge)
